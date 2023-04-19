@@ -13,8 +13,7 @@ import com.example.view_binding.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
    private lateinit var binding : ActivityMainBinding
    private lateinit var Button : Button
-    @SuppressLint("SuspiciousIndentation")
-    override fun onCreate(savedInstanceState: Bundle?) {
+        override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         supportActionBar?.hide()
         binding = ActivityMainBinding.inflate(layoutInflater)
