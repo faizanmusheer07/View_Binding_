@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">View_Binding</string>
+    <string name="email">Email</string>
+    <string name="pswd">Password</string>
+    <string name="btn1">Login</string>
+    <string name="ChkBx"> I accept all the terms&amp;conditions</string>
+    <string name="text"> Hello I m Second Activity </string>
+</resources>
